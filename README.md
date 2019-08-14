@@ -7,7 +7,7 @@ The repository provides the novel synthetic test set that can be used as evaluat
 Please cite our paper if you plan to use the dataset in your work:
 
 ```
-@inproceedings{kipf2017semi,
+@inproceedings{nozza2019ubmd,
   title={Unintended Bias in Misogyny Detection},
   author={Nozza, Debora and Volpetti, Claudia and Fersini, Elisabetta},
   booktitle={2019 IEEE/WIC/ACM International Conference on Web Intelligence (WI)},

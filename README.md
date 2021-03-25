@@ -2,6 +2,8 @@
 
 The repository provides the novel synthetic test set that can be used as evaluation framework for measuring the unintended bias for misogyny detection and different mitigation strategies specific for this task.
 
+Each line refers to a template-generated text and the correspondent label (**0** for non-misogynous text and **1** for misogynous text).
+
 ## Cite
 
 Please cite our paper if you plan to use the dataset in your work:
